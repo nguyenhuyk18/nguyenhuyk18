@@ -23,4 +23,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nguyenhuyk18&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![snake gif](https://github.com/nguyenhuyk18/nguyenhuyk18/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
