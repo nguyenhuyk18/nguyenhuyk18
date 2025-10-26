@@ -4,7 +4,11 @@
   <h3 style="font-weight: normal; color: #aad8ff;">A Vietnamese developer aiming to become a full-stack developer.</h3>
 
   <br/>
-
+ 
+  <img src="https://github.com/nguyenhuyk18/nguyenhuyk18/blob/output/github-snake-dark.svg" alt="Snake Animation" style="max-width: 800px;"/>
+  
+  <br/>
+   
   <img src="https://komarev.com/ghpvc/?username=nguyenhuyk18&label=Profile%20views&color=00d9ff&style=flat-square" alt="nguyenhuyk18" />
 
   <hr style="margin: 30px auto; width: 80%; border: 0; height: 1px; background: linear-gradient(90deg, transparent, #00d9ff, transparent);" />
@@ -77,7 +81,6 @@
   <h3>🔝 Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=nguyenhuyk18&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="border-radius:10px;"/>
 
-  <br/>
-  <img src="https://github.com/nguyenhuyk18/nguyenhuyk18/blob/output/github-snake-dark.svg" alt="Snake Animation" style="max-width: 800px;"/>
+
 
 </div>
